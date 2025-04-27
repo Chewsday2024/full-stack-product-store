@@ -19,6 +19,6 @@ const productSchema = mongoose.Schema({
 })
 
 
-const Proudct = mongoose.model('Product', productSchema)
+const Product = mongoose.model('Product', productSchema)
 
-export default Proudct
+export default Product
